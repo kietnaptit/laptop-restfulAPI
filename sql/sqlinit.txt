@@ -1,0 +1,7 @@
+CREATE TABLE laptop(
+	id int PRIMARY KEY auto_increment,
+    name varchar(255),
+    manudate date,
+    brand varchar(255),
+    sold int
+);

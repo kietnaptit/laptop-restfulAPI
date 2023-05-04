@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+	<meta charset="UTF-8">
+	<title>laptop Detail</title>
+	<!-- Load Bootstrap CSS -->
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css">
+</head>
+
+<body>
+	<div class="container">
+		<h1>laptop Detail</h1>
+		<form id="laptopForm" th:object="${laptop}" th:action="@{save/{id}(id=${laptop.id})}" th:method="${id}<0 ? POST : PUT">
+			<div class="form-group">
+				<label for="id">ID</label>
+				<input class="form-control" id="id" name="id" th:value="${laptop.id}" type disabled="disabled">
+			</div>
+			<div class="form-group">
+				<label for="name">Name</label>
+				<input type="text" class="form-control" id="name" name="name" th:value="${laptop.name}" required>
+			</div>
+            <div class="form-group">
+				<label for="date">Manufacture Date</label>
+				<input type="text" class="form-control" id="date" name="date" th:value="${laptop.date}" required>
+			</div>
+            <div class="form-group">
+				<label for="brand">Brand</label>
+				<input type="text" class="form-control" id="brand" name="brand" th:value="${laptop.brand}" required>
+			</div>
+			
+			<div class="form-group form-check">
+				<input type="checkbox" class="form-check-input" id="sold" name="sold"
+					th:checked="${laptop.sold}">
+				<label class="form-check-label" for="show">Sold</label>
+			</div>
+			<button type="disabled" id="submit-btn" class="btn btn-primary">Save laptop</button>
+		</form>
+	</div>
+
+	<!-- Load Bootstrap JS (and jQuery) -->
+	<script src="https://code.jquery.com/jquery-3.2.1.slim.min.js"></script>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js"></script>
+	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"></script>
+</body>
+
+</html>

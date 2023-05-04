@@ -1,0 +1,352 @@
+[
+ {
+   "id": 1,
+   "name": "MacBook Pro",
+   "manudate": "2020-01-01",
+   "brand": "Apple",
+   "sold": 0
+ },
+ {
+   "id": 2,
+   "name": "Macbook Air",
+   "manudate": "2020-01-02",
+   "brand": "Apple",
+   "sold": 1
+ },
+ {
+   "id": 3,
+   "name": "250 G6",
+   "manudate": "2020-01-03",
+   "brand": "HP",
+   "sold": 1
+ },
+ {
+   "id": 4,
+   "name": "MacBook Pro",
+   "manudate": "2020-01-04",
+   "brand": "Apple",
+   "sold": 1
+ },
+ {
+   "id": 5,
+   "name": "MacBook Pro",
+   "manudate": "2020-01-05",
+   "brand": "Apple",
+   "sold": 0
+ },
+ {
+   "id": 6,
+   "name": "Aspire 3",
+   "manudate": "2020-01-06",
+   "brand": "Acer",
+   "sold": 1
+ },
+ {
+   "id": 7,
+   "name": "MacBook Pro",
+   "manudate": "2020-01-07",
+   "brand": "Apple",
+   "sold": 0
+ },
+ {
+   "id": 8,
+   "name": "Macbook Air",
+   "manudate": "2020-01-08",
+   "brand": "Apple",
+   "sold": 0
+ },
+ {
+   "id": 9,
+   "name": "ZenBook UX430UN",
+   "manudate": "2020-01-09",
+   "brand": "Asus",
+   "sold": 0
+ },
+ {
+   "id": 10,
+   "name": "Swift 3",
+   "manudate": "2020-01-10",
+   "brand": "Acer",
+   "sold": 0
+ },
+ {
+   "id": 11,
+   "name": "250 G6",
+   "manudate": "2020-01-11",
+   "brand": "HP",
+   "sold": 0
+ },
+ {
+   "id": 12,
+   "name": "250 G6",
+   "manudate": "2020-01-12",
+   "brand": "HP",
+   "sold": 0
+ },
+ {
+   "id": 13,
+   "name": "MacBook Pro",
+   "manudate": "2020-01-13",
+   "brand": "Apple",
+   "sold": 1
+ },
+ {
+   "id": 14,
+   "name": "Inspiron 3567",
+   "manudate": "2020-01-14",
+   "brand": "Dell",
+   "sold": 0
+ },
+ {
+   "id": 15,
+   "name": "MacBook 12\"",
+   "manudate": "2020-01-15",
+   "brand": "Apple",
+   "sold": 0
+ },
+ {
+   "id": 16,
+   "name": "MacBook Pro",
+   "manudate": "2020-01-16",
+   "brand": "Apple",
+   "sold": 1
+ },
+ {
+   "id": 17,
+   "name": "Inspiron 3567",
+   "manudate": "2020-01-17",
+   "brand": "Dell",
+   "sold": 0
+ },
+ {
+   "id": 18,
+   "name": "MacBook Pro",
+   "manudate": "2020-01-18",
+   "brand": "Apple",
+   "sold": 0
+ },
+ {
+   "id": 19,
+   "name": "IdeaPad 320-15IKB",
+   "manudate": "2020-01-19",
+   "brand": "Lenovo",
+   "sold": 0
+ },
+ {
+   "id": 20,
+   "name": "XPS 13",
+   "manudate": "2020-01-20",
+   "brand": "Dell",
+   "sold": 1
+ },
+ {
+   "id": 21,
+   "name": "Vivobook E200HA",
+   "manudate": "2020-01-21",
+   "brand": "Asus",
+   "sold": 1
+ },
+ {
+   "id": 22,
+   "name": "Legion Y520-15IKBN",
+   "manudate": "2020-01-22",
+   "brand": "Lenovo",
+   "sold": 1
+ },
+ {
+   "id": 23,
+   "name": "255 G6",
+   "manudate": "2020-01-23",
+   "brand": "HP",
+   "sold": 1
+ },
+ {
+   "id": 24,
+   "name": "Inspiron 5379",
+   "manudate": "2020-01-24",
+   "brand": "Dell",
+   "sold": 0
+ },
+ {
+   "id": 25,
+   "name": "15-BS101nv",
+   "manudate": "2020-01-25",
+   "brand": "HP",
+   "sold": 0
+ },
+ {
+   "id": 26,
+   "name": "Inspiron 3567",
+   "manudate": "2020-01-26",
+   "brand": "Dell",
+   "sold": 0
+ },
+ {
+   "id": 27,
+   "name": "MacBook Air",
+   "manudate": "2020-01-27",
+   "brand": "Apple",
+   "sold": 0
+ },
+ {
+   "id": 28,
+   "name": "Inspiron 5570",
+   "manudate": "2020-01-28",
+   "brand": "Dell",
+   "sold": 0
+ },
+ {
+   "id": 29,
+   "name": "Latitude 5590",
+   "manudate": "2020-01-29",
+   "brand": "Dell",
+   "sold": 1
+ },
+ {
+   "id": 30,
+   "name": "ProBook 470",
+   "manudate": "2020-01-30",
+   "brand": "HP",
+   "sold": 0
+ },
+ {
+   "id": 31,
+   "name": "LapBook 15.6\"",
+   "manudate": "2020-01-31",
+   "brand": "Chuwi",
+   "sold": 1
+ },
+ {
+   "id": 32,
+   "name": "E402WA-GA010T",
+   "manudate": "2020-02-01",
+   "brand": "Asus",
+   "sold": 1
+ },
+ {
+   "id": 33,
+   "name": "17-ak001nv",
+   "manudate": "2020-02-02",
+   "brand": "HP",
+   "sold": 1
+ },
+ {
+   "id": 34,
+   "name": "XPS 13",
+   "manudate": "2020-02-03",
+   "brand": "Dell",
+   "sold": 0
+ },
+ {
+   "id": 35,
+   "name": "MacBook Air",
+   "manudate": "2020-02-04",
+   "brand": "Apple",
+   "sold": 1
+ },
+ {
+   "id": 36,
+   "name": "IdeaPad 120S-14IAP",
+   "manudate": "2020-02-05",
+   "brand": "Lenovo",
+   "sold": 1
+ },
+ {
+   "id": 37,
+   "name": "Aspire 3",
+   "manudate": "2020-02-06",
+   "brand": "Acer",
+   "sold": 0
+ },
+ {
+   "id": 38,
+   "name": "Inspiron 5770",
+   "manudate": "2020-02-07",
+   "brand": "Dell",
+   "sold": 1
+ },
+ {
+   "id": 39,
+   "name": "250 G6",
+   "manudate": "2020-02-08",
+   "brand": "HP",
+   "sold": 1
+ },
+ {
+   "id": 40,
+   "name": "ProBook 450",
+   "manudate": "2020-02-09",
+   "brand": "HP",
+   "sold": 1
+ },
+ {
+   "id": 41,
+   "name": "X540UA-DM186",
+   "manudate": "2020-02-10",
+   "brand": "Asus",
+   "sold": 1
+ },
+ {
+   "id": 42,
+   "name": "Inspiron 7577",
+   "manudate": "2020-02-11",
+   "brand": "Dell",
+   "sold": 0
+ },
+ {
+   "id": 43,
+   "name": "X542UQ-GO005",
+   "manudate": "2020-02-12",
+   "brand": "Asus",
+   "sold": 1
+ },
+ {
+   "id": 44,
+   "name": "Aspire A515-51G",
+   "manudate": "2020-02-13",
+   "brand": "Acer",
+   "sold": 0
+ },
+ {
+   "id": 45,
+   "name": "Inspiron 7773",
+   "manudate": "2020-02-14",
+   "brand": "Dell",
+   "sold": 1
+ },
+ {
+   "id": 46,
+   "name": "MacBook Pro",
+   "manudate": "2020-02-15",
+   "brand": "Apple",
+   "sold": 0
+ },
+ {
+   "id": 47,
+   "name": "IdeaPad 320-15ISK",
+   "manudate": "2020-02-16",
+   "brand": "Lenovo",
+   "sold": 1
+ },
+ {
+   "id": 48,
+   "name": "Rog Strix",
+   "manudate": "2020-02-17",
+   "brand": "Asus",
+   "sold": 1
+ },
+ {
+   "id": 49,
+   "name": "Inspiron 3567",
+   "manudate": "2020-02-18",
+   "brand": "Dell",
+   "sold": 1
+ },
+ {
+   "id": 50,
+   "name": "X751NV-TY001T",
+   "manudate": "2020-02-19",
+   "brand": "Asus",
+   "sold": 0
+ }
+]
